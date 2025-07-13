@@ -29,7 +29,8 @@ These are static-image, note-style reels covering dev concepts, tools, tips & tr
 
 If you find this helpful:
 - Star this repo ⭐  
-- Share it with your dev circle  
+- Share it with your dev circle
+- New Pdf will be added Every Week 
 ---
 
 Made by @this.girl.tech
