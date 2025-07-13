@@ -1,6 +1,5 @@
 ✨ Reels Vault — By @thisgirl.tech
 
-
 Your favorite dev reels — now as downloadable, high-quality PDFs.  
 
 📂 What's Inside
@@ -22,7 +21,7 @@ These are static-image, note-style reels covering dev concepts, tools, tips & tr
 
 ## 📸 Follow the Reels on Instagram
   
-→ [**@thisgirl.tech**](https://instagram.com/thisgirl.tech)
+→ @this.girl.tech :- https://www.instagram.com/this.girl.tech/
 
 ---
 
@@ -33,4 +32,4 @@ If you find this helpful:
 - Share it with your dev circle  
 ---
 
-Made by @thisgirl.tech
+Made by @this.girl.tech
